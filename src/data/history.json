@@ -1,29 +1,42 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "role": "COO and Co-founder",
+    "organisation": "Aurelius.ai",
+    "startDate": "Apr, 2024",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "experiences": ["Networked with industry professionals & investors", "Planned product developent", "Worked on news sentiment analysis and chatbot"],
+    "imageSrc": "history/aurelius.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "role": "NLP Research Assistant",
+    "organisation": "University of Maryland",
+    "startDate": "Apr, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked under Professor Dinesh Manocha", "Worked on projects related to video learning and NLP", "Built multimodal LLMs with OpenAI and Gemini APIs", "Used PyTorch, Pandas, and OpenCV"],
+    "imageSrc": "history/umd.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "President and Founder",
+    "organisation": "CerealCodes",
+    "startDate": "Jun, 2022",
+    "endDate": "Jun, 2024",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Built coding competition with around 1000 participants",
+      "Built competition platform with grader using React, Flask, and etc.",
+      "Wrote Leetcode-style algorithmic programming challenges"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/cerealcodes.webp"
+  },
+  {
+    "role": "Deep Learning Research Intern",
+    "organisation": "Naval Research Laboratory",
+    "startDate": "Jun, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": [
+      "Worked under Dr. Leslie Smith",
+      "Worked on building image-to-image translation model",
+      "Worked on fine-tuning LLMs for the Department of Defense"
+    ],
+    "imageSrc": "history/nrl.png"
   }
 ]

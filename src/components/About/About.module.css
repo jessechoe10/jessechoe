@@ -90,3 +90,9 @@
     padding-right: 0;
   }
 }
+
+img {
+  width: 15%;
+  height: 15%;
+  padding-right: 5%;
+}

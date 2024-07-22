@@ -1,26 +1,30 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Aurelius.ai",
+    "imageSrc": "history/aurelius.png",
+    "description": "This is an easily-accessible AI-powered financial terminal built as an information platform for retail investors.",
+    "skills": ["React", "Flask", "Node", "TensorFlow", "NumPy"],
+    "demo": "https://aureliusai.site/"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "CerealCodes",
+    "imageSrc": "history/cerealcodes.webp",
+    "description": "This is a Leetcode-styled coding competition that received nearly 1000 participants in 2023.",
+    "skills": ["React", "Node", "Flask"],
+    "demo": "https://www.cerealcodes.org/"
   },
   {
-    "title": "Project C",
+    "title": "EchoVest",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a vest for the hearing-impaired that helps localize sounds by sending vibrations through stimulation pads",
+    "skills": ["TensorFlow", "Arduino", "SciPy"],
+    "demo": "https://ieeexplore.ieee.org/document/10534984"
+  },
+  {
+    "title": "TheraSpeak",
+    "imageSrc": "projects/project.png",
+    "description": "This is a GPT-4 powered mental health assistance chatbot for suicide hotline workers.",
+    "skills": ["React", "Flask", "Node", "Tailwind", "OpenAI", "API"],
+    "demo": "https://theraspeak.netlify.app/"
   }
 ]
